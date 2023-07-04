@@ -1,0 +1,3 @@
+Hello world
+my first odin project 
+SUper proud of where this is leading me to
